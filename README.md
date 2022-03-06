@@ -5,7 +5,16 @@
 
 ## I'm a beginner Software Engineer
 
-Languages and Tools
+### Languages and Tools
+![CSharp](https://img.shields.io/badge/-SCharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/-Core-blue?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=MySql&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-Asp.Net-grey?style=for-the-badge&logo=WWE&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-yellow?style=for-the-badge&logo=Windows&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-succsess?style=for-the-badge&logo=C%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-critical?style=for-the-badge&logo=Python&logoColor=white)
+
+
 
 Follow me
 
