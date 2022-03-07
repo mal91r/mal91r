@@ -6,7 +6,7 @@
 ## I'm a beginner Software Engineer
 
 ### Languages and Tools
-![CSharp](https://img.shields.io/badge/-SCharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/-Core-blue?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=MySql&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-Asp.Net-grey?style=for-the-badge&logo=WWE&logoColor=white)
