@@ -14,9 +14,10 @@
 ![C++](https://img.shields.io/badge/-C++-succsess?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-critical?style=for-the-badge&logo=Python&logoColor=white)
 
-
-
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mal91r)
+[![Vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=9370DB)](https://vk.com/mal91r)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=FF00FF)](https://www.instagram.com/mal91r/)
 
 <!--
 **mal91r/mal91r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
