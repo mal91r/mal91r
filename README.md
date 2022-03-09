@@ -32,9 +32,6 @@ Department: Software Engineering
 
 - Asp.Net project
 
-ect.
-
-
 # Languages and Tools
 ![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/-Core-blue?style=for-the-badge&logo=.net&logoColor=white)
