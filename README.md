@@ -22,15 +22,15 @@ Department: Software Engineering
 
 ## I’m currently working on C#. In my repositories you can find:
 
--Console Game
+- Console Game
 
--Windows Forms App
+- Windows Forms App
 
--WPF App
+- WPF App
 
--LINQ projects 
+- LINQ projects 
 
--Asp.Net project
+- Asp.Net project
 
 ect.
 
