@@ -6,7 +6,7 @@
 # I'm a beginner Software Engineer
 
 ## About me
-Age: 18
+Age: 19
 
 Country: Russia
 
