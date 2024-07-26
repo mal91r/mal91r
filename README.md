@@ -6,7 +6,7 @@
 # I'm a beginner Software Engineer
 
 ## About me
-Age: 19
+Age: 21
 
 Country: Russia
 
@@ -19,6 +19,8 @@ Univercity: HSE
 Faculty: Computer Science
 
 Department: Software Engineering
+
+Company: Ozon Tech
 
 ## I’m currently working on C#. In my repositories you can find:
 
